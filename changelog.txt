@@ -1,4 +1,7 @@
 Changelog:
+-- 2020.08.01 12:13 PM --
+Add solutions for exercises: Home
+
 -- 2020.08.01 11:56 AM --
 Add readme.md
 
