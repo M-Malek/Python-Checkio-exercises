@@ -1,4 +1,7 @@
 Changelog:
+-- 2020.08.01 11:56 AM --
+Add readme.md
+
 -- 2020.08.01 11:50 AM --
 Push repisotory to GitHub
 
