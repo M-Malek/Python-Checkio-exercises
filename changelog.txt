@@ -1,0 +1,9 @@
+Changelog:
+-- 2020.08.01 11:40 AM --
+Push repisotory to GitHub
+
+-- 2020.08.01 9:56AM --
+Add solutions for exercises: Elementary
+
+--2020.08.01 9:18 AM --
+Create a repository
