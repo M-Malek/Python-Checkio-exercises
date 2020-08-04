@@ -1,4 +1,9 @@
 Changelog:
+-- 2020.08.04 12:57 PM --
+Add solutions for exercises: Electronic Station
+- Sort_by_Ext
+- Words_Order
+
 -- 2020.08.01 12:13 PM --
 Add solutions for exercises: Home
 
