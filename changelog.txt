@@ -1,13 +1,25 @@
 Changelog:
--- 2020.08.04 12:57 PM --
+-- 2020.08.07 18:13 AM GMT+2 --
+Add solutions for exercises: Electronic Station
+- Acceptable password V
+
+-- 2020.08.06 10:30 AM GMT+2 --
+Add solutions for exercises: Electronic Station
+- Acceptable password I-IV
+
+-- 2020.08.05 10:07 AM GMT+2 --
+Add solutions for exercises: Electronic Station
+- Digits_multiplication
+
+-- 2020.08.04 12:57 PM GMT+2 --
 Add solutions for exercises: Electronic Station
 - Sort_by_Ext
 - Words_Order
 
--- 2020.08.01 12:13 PM --
+-- 2020.08.01 12:13 PM GMT+2 --
 Add solutions for exercises: Home
 
--- 2020.08.01 11:56 AM --
+-- 2020.08.01 11:56 AM GMT+2 --
 Add readme.md
 
 -- 2020.08.01 11:50 AM --
