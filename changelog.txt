@@ -1,4 +1,8 @@
 Changelog:
+-- 2020.08.09 21:02 PM GMT+2 --
+Add solutions for exercises: Electronic Station
+- Ascending list
+
 -- 2020.08.08 21:26 PM GMT+2 --
 Add solutions for exercises: Electronic Station
 - All upper II
