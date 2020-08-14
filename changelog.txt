@@ -1,4 +1,8 @@
 Changelog:
+-- 2020.08.15 00:44 AM GMT+2 --
+Add solutions for exercises: Electronic Station
+- Surjection Strings
+
 -- 2020.08.11 23:21 PM GMT +2 --
 Begin new quest line: O'Reilly
 Add solution to new quest line:
