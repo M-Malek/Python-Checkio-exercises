@@ -1,4 +1,7 @@
 Changelog:
+-- 2020.08.24 22:40 PM GMT+2 --
+Add new tasks solution to O'Reilly quest line (Frequency sorting)
+
 -- 2020.08.23 23:31 PM GMT+2 --
 Add new tasks solution to O'Reilly quest line
 
