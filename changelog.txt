@@ -1,4 +1,7 @@
 Changelog:
+-- 2020.08.28 00:18 PM GMT+2 --
+Update in Electronic Station tasks solutions (Sort by ext), add new extra solution for task Cipher map from Scientific Expedition
+
 -- 2020.08.26 22:09 PM GMT+2 --
 Add new tasks solutions to O'Reilly quest line
 
