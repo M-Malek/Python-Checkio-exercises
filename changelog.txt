@@ -1,4 +1,7 @@
 Changelog:
+-- 2020.10.06 19:04 PM GMT+2 --
+Add new solution to Scientific Expedition quest line (Absolute sorting)
+
 -- 2020.08.28 00:18 PM GMT+2 --
 Update in Electronic Station tasks solutions (Sort by ext), add new extra solution for task Cipher map from Scientific Expedition
 
